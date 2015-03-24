@@ -1,0 +1,17 @@
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\ApplicationIcon.png
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\Background.png
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\TriviaCracked.dll
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\TriviaCracked.pdb
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\AppManifest.xaml
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\TriviaCracked_Release_AnyCPU.xap
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\Bin\Release\Newtonsoft.Json.dll
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\App.g.cs
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\MainPage.g.cs
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\PasswordPrompt.g.cs
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\Question.g.cs
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\TriviaCracked.g.resources
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\TriviaCracked.dll
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\TriviaCracked.pdb
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\XapCacheFile.xml
+C:\Users\rahul\Desktop\trivia_cracked-master\TriviaCracked\TriviaCracked\obj\Release\TriviaCracked.csprojResolveAssemblyReference.cache

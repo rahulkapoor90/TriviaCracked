@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="en-US" />
+    <Language code="en-AU" />
+    <Language code="en" />
+    <Language code="en-IN" />
+    <Language code="en-HK" />
+    <Language code="en-029" />
+    <Language code="en-CA" />
+    <Language code="en-BZ" />
+    <Language code="en-IE" />
+    <Language code="en-JM" />
+    <Language code="en-MY" />
+    <Language code="en-NZ" />
+    <Language code="en-PH" />
+    <Language code="en-SG" />
+    <Language code="en-ZA" />
+    <Language code="en-TT" />
+  </Languages>
+  <App xmlns="" ProductID="{b8bdfff5-4379-4a8c-ae63-131efaeeb311}" Title="Trvia Cracked" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Rahul Kapoor" Description="Cracks Trivia Crack to automatically give you the answer to the questions that the app asks you.&#xD;&#xA;&#xD;&#xA;Still in very early development and has some issues that need worked out, but it works for simple cases" Publisher="Rahul Kapoor" PublisherID="{51CE4A4D-4C6D-4113-A47E-EFD7D5A8108C}">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="TriviaCrackedToken" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsResource="false" IsRelative="true">Background.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsResource="false" IsRelative="true">Background.png</BackgroundImageURI>
+          <Title>TriviaCracked</Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <DeviceLockImageURI></DeviceLockImageURI>
+          <HasLarge>false</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="TriviaCracked.Question"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="480" d:DesignWidth="480">
+
+    <Grid x:Name="LayoutRoot">
+        <TextBox  Height="133" HorizontalAlignment="Center" Margin="12,57,12,0" Name="questionBox" Text="" VerticalAlignment="Top" Width="456" IsEnabled="True" IsReadOnly="True" HorizontalContentAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" />
+        <ListBox Height="194" HorizontalAlignment="Left" Margin="12,196,0,0" Name="answerList" VerticalAlignment="Top" Width="456" HorizontalContentAlignment="Center" >
+        </ListBox>
+        <Button Content="Send Answer" Height="72" HorizontalAlignment="Left" Margin="12,396,0,0" Name="answerButton" VerticalAlignment="Top" Width="456" Click="answerButton_Click" />
+        <TextBlock Height="36" HorizontalAlignment="Left" Margin="22,12,0,0" Name="categoryBox" Text="category" VerticalAlignment="Top" Width="158" />
+        <TextBlock Height="36" HorizontalAlignment="Left" Margin="300,12,0,0" Name="spinTypeBox" Text="spinType" VerticalAlignment="Top" Width="168" TextAlignment="Right"/>
+    </Grid>
+
+</UserControl>
